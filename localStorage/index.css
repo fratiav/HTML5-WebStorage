@@ -1,0 +1,51 @@
+body,html{
+    margin: 0 auto;
+    padding: 0;
+    background-color: black;
+}
+
+#cabecera h3{
+    text-align: center;
+    margin: 0 auto;
+    padding: 15px;
+    background-color: rgb(90, 63, 12);
+    color: whitesmoke;
+    border-bottom: 3px solid cadetblue;
+}
+
+#zonaFormulario{
+    height: 200px;
+    margin: 0 auto;
+    text-align: center;
+    background-color: cadetblue;
+    font-weight: bold;
+    color: whitesmoke;
+}
+
+#zonaFormulario form{
+    width: 40%;
+    height: 190px;
+    line-height: 50px;
+    margin: 0 auto;
+    background-color: rgb(0, 41, 27);
+}
+
+#zonaFormulario form table{
+    margin: 0 auto;
+    width: 50%;
+    text-align: center;
+}
+
+#zonaLectura{
+    background-color: rgb(44, 32, 8);
+    width: 50%;
+    margin: 0 auto;
+    color: blanchedalmond;
+    text-align: center;
+    margin-top: 20px;
+    height: 100%;
+}
+
+div{
+    color: red;
+}
